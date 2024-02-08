@@ -7,7 +7,7 @@
 This Repository consist of all the  PowerBI, PDF and Excel files of the tasks that were assigned during the CommonWealth Bank Introduction to Data Science Job Sim hosted on Forage
 
 ## Task 1: Data Aggregation and Analysis: -
-### [Task 1 Final Analysis Excel Sheet](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FADVAIT135%2FForage_CommonWealth_Bank_Introduction_to_Data_Science_Job_Simulation%2Fmain%2FTask%25201%253A%2520Data%2520Aggregation%2520and%2520Analysis%2Fsupermarket_transactions_analysis.xlsx&wdOrigin=BROWSELINK)
+### [Task 1 Final Analysis Excel Sheet](https://docs.google.com/spreadsheets/d/1IHfkp3pm18xTzzKR6uhkuAVuI8O6kMWj/edit?usp=sharing&ouid=107273333217567463879&rtpof=true&sd=true)
 ### [Task 1 PowerBI Report PDF](https://github.com/ADVAIT135/Forage_CommonWealth_Bank_Introduction_to_Data_Science_Job_Simulation/blob/0ed8dfc3632483a727687967322cd0c4ae7d5696/Task%201%3A%20Data%20Aggregation%20and%20Analysis/Forage%20CommonWealth%20Bank%20Introduction%20to%20Data%20Science%20Task%201.pdf)
 
 ## Task 2: Data Anonymsation: -
