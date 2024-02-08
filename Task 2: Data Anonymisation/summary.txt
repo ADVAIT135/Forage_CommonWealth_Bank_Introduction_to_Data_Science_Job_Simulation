@@ -1,0 +1,7 @@
+Tasks Assigned: - 
+We need you to anonymise this data to hide personal details while preserving any useful information for the data scientists at InsightSpark.
+
+Here are some examples of how you may anonymise a data set:
+You could remove columns that don’t provide helpful information for analysis (e.g., names or credit card numbers).
+You could mask any columns that can identify an individual (e.g., passport numbers or mobile numbers).
+You could categorise personal figures (e.g., age and income) into a bracket rather than a specific number.
