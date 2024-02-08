@@ -1,0 +1,3 @@
+Tasks Assigned: -
+Propose a structured database for storing tweets from the CommBank Twitter account, replies, quote retweets, and direct mentions.
+Define the tables, including the fields, primary keys, and relationships.
